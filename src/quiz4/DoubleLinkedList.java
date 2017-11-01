@@ -1,5 +1,5 @@
 /*
- * Group members:
+ * Group members: Austin Juelfs, Andrew Ferdenzi
  * 
  */
 package quiz4;
